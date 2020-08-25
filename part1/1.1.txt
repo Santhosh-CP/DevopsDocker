@@ -1,0 +1,5 @@
+santhosh@santhosh-VirtualBox:~/devopsDocker$ docker ps -a
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                      PORTS               NAMES
+1a06591bdc56        nginx               "/docker-entrypoint.…"   42 seconds ago      Up 41 seconds               80/tcp              jovial_zhukovsky
+8ba2991534a9        nginx               "/docker-entrypoint.…"   44 seconds ago      Exited (0) 10 seconds ago                       strange_solomon
+a482a3c8fdbe        nginx               "/docker-entrypoint.…"   48 seconds ago      Exited (0) 5 seconds ago                        determined_noether
